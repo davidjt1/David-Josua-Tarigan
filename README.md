@@ -1,2 +1,2 @@
 # David-Josua-Tarigan
-tugas mobile computong
+tugas mobile computing
